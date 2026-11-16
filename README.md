@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,30:2563EB,60:7C3AED,100:EC4899&height=290&section=header&text=SEID%20DEREJE&fontSize=70&fontColor=FFFFFF&fontAlignY=40&desc=Front-End%20Developer%20%E2%80%A2%20UI%20Builder%20%E2%80%A2%20Problem%20Solver&descSize=19&descAlignY=62&animation=twinkling" width="100%" alt="Seid Dereje header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:1E2A78,55:4C1D95,80:0E7490,100:020617&height=290&section=header&text=SEID%20DEREJE&fontSize=72&fontColor=FDE68A&fontAlignY=38&stroke=F59E0B&strokeWidth=1&desc=FRONT-END%20WEB%20DEVELOPER%20%7C%20CREATIVE%20THINKER%20%7C%20PROBLEM%20SOLVER&descSize=19&descColor=FDE68A&descAlignY=60&animation=fadeIn" width="100%" alt="Seid Dereje header"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:4C1D95,100:0E7490&height=3&section=header" width="60%"/>
 
 <a href="https://github.com/abufaruk5825-cybersecurity">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Hi+%F0%9F%91%8B+I'm+Seid+Dereje;I+build+responsive+web+interfaces+%F0%9F%8C%90;React+%E2%9A%9B%EF%B8%8F+%C2%B7+JavaScript+%C2%B7+Tailwind+CSS;Turning+ideas+into+clean%2C+modern+UIs+%F0%9F%8E%A8;Open+to+Front-End+jobs+%26+internships+%F0%9F%9A%80" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=900&color=FDE68A&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Hi+%F0%9F%91%8B+I'm+Seid+Dereje;I+build+responsive+web+interfaces+%F0%9F%8C%90;React+%E2%9A%9B%EF%B8%8F+%C2%B7+JavaScript+%C2%B7+Tailwind+CSS;Turning+ideas+into+clean%2C+modern+UIs+%F0%9F%8E%A8;Open+to+Front-End+jobs+%26+internships+%F0%9F%9A%80" alt="Typing animation"/>
 </a>
 
 <br/>
@@ -29,18 +31,50 @@
 
 ## 👨‍💻 About Me
 
-```js
-const seid = {
-  role: "Front-End Developer",
-  education: "BSc in Software Engineering",
-  currentlyImproving: ["React.js", "UI/UX", "JavaScript problem solving"],
-  buildsWith: ["HTML5", "CSS3", "JavaScript (ES6+)", "React", "Tailwind CSS"],
-  lookingFor: "Front-End position or internship",
-  funFact: "I clone cool websites to learn how they work 😄",
-};
-```
+Hello! I'm **Seid Dereje**, a passionate Front-End Developer who loves turning creative ideas into **responsive, clean and user-friendly web experiences**. I learn best by building real-world projects: e-commerce sites, dashboards, exam and attendance systems.
 
-I enjoy building **responsive, clean and user-friendly interfaces** and learning modern front-end tools. Real-world projects (e-commerce, dashboards, exam and attendance systems) are how I sharpen my skills.
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>💼 Role</h3>
+<b>Front-End Developer</b><br/>
+<sub>Building modern, responsive UIs</sub>
+</td>
+<td align="center" width="33%">
+<h3>🎓 Education</h3>
+<b>BSc in Software Engineering</b><br/>
+<sub>Strong foundation in software</sub>
+</td>
+<td align="center" width="33%">
+<h3>🎯 Looking For</h3>
+<b>Front-End Job or Internship</b><br/>
+<sub>Ready to learn, grow and contribute</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<h3>🛠️ I Build With</h3>
+<b>HTML5 · CSS3 · JavaScript (ES6+)</b><br/>
+<sub>React · Tailwind CSS</sub>
+</td>
+<td align="center" width="33%">
+<h3>🌱 Improving</h3>
+<b>React.js · UI/UX</b><br/>
+<sub>JavaScript problem solving</sub>
+</td>
+<td align="center" width="33%">
+<h3>😄 Fun Fact</h3>
+<b>I clone cool websites</b><br/>
+<sub>to learn how they really work</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+> ✨ *"Great development is not just about writing code. It's about solving problems, understanding users and delivering meaningful solutions."*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -187,6 +221,6 @@ Front-end for an attendance tracking system, integrated with a **Django** backen
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:2563EB,60:7C3AED,100:EC4899&height=140&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:1E2A78,55:4C1D95,80:0E7490,100:020617&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
