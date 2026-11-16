@@ -1,351 +1,192 @@
-
 <div align="center">
 
-<!-- PREMIUM GOLD & MIDNIGHT GRADIENT HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:172554,55:312E81,80:164E63,100:050816&height=280&section=header&text=SEID%20DEREJE&fontSize=68&fontColor=FDE68A&fontAlignY=38&desc=FRONT-END%20WEB%20DEVELOPER%20%7C%20CREATIVE%20THINKER%20%7C%20PROBLEM%20SOLVER&descSize=15&descColor=E2E8F0&descAlignY=60&animation=fadeIn" width="100%" alt="Seid Dereje - Developer"/>
-
-<br/>
-
-<!-- SMOOTH LETTER-BY-LETTER TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=FDE68A&center=true&vCenter=true&width=850&height=65&lines=HI%2C+I%27M+SEID+DEREJE;FRONT-END+WEB+DEVELOPER;CREATIVE+UI+DESIGNER;PROBLEM+SOLVER;BUILDING+IDEAS+INTO+REALITY" alt="Typing introduction"/>
-
-<br/>
-
-<h3>Building Digital Experiences That Make a Difference.</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/FOCUS-FRONTEND%20DEVELOPMENT-FDE68A?style=flat-square&labelColor=111827"/>
-  <img src="https://img.shields.io/badge/MINDSET-CREATIVE%20THINKING-60A5FA?style=flat-square&labelColor=111827"/>
-  <img src="https://img.shields.io/badge/DRIVEN-BY%20INNOVATION-C4B5FD?style=flat-square&labelColor=111827"/>
-</p>
-
-<p>
-  I transform ideas into modern, responsive, and user-friendly web applications.
-  <br/>
-  Passionate about elegant UI design, creative development, and solving real-world problems through technology.
-</p>
-
-<br/>
-
-<a href="https://github.com/abufaruk5825-cybersecurity?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-FDE68A?style=for-the-badge&logo=github&logoColor=111827&labelColor=FDE68A"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,30:2563EB,60:7C3AED,100:EC4899&height=290&section=header&text=SEID%20DEREJE&fontSize=70&fontColor=FFFFFF&fontAlignY=40&desc=Front-End%20Developer%20%E2%80%A2%20UI%20Builder%20%E2%80%A2%20Problem%20Solver&descSize=19&descAlignY=62&animation=twinkling" width="100%" alt="Seid Dereje header"/>
 
 <a href="https://github.com/abufaruk5825-cybersecurity">
-  <img src="https://img.shields.io/badge/GITHUB%20PROFILE-60A5FA?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Hi+%F0%9F%91%8B+I'm+Seid+Dereje;I+build+responsive+web+interfaces+%F0%9F%8C%90;React+%E2%9A%9B%EF%B8%8F+%C2%B7+JavaScript+%C2%B7+Tailwind+CSS;Turning+ideas+into+clean%2C+modern+UIs+%F0%9F%8E%A8;Open+to+Front-End+jobs+%26+internships+%F0%9F%9A%80" alt="Typing animation"/>
 </a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20to-Work%20%26%20Internships-22C55E?style=for-the-badge&logo=target&logoColor=white"/>
+<img src="https://img.shields.io/badge/Based%20in-Ethiopia%20%F0%9F%87%AA%F0%9F%87%B9-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Front--End-7C3AED?style=for-the-badge&logo=react&logoColor=white"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=abufaruk5825-cybersecurity&style=flat-square&color=FDE68A&label=PROFILE+VISITORS" alt="Profile views"/>
+<a href="https://github.com/abufaruk5825-cybersecurity?tab=repositories"><img src="https://img.shields.io/badge/My%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:seynadereje12@gmail.com"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-0891B2?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=abufaruk5825-cybersecurity&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
+## 👨‍💻 About Me
 
-## 01. ABOUT ME
+```js
+const seid = {
+  role: "Front-End Developer",
+  education: "BSc in Software Engineering",
+  currentlyImproving: ["React.js", "UI/UX", "JavaScript problem solving"],
+  buildsWith: ["HTML5", "CSS3", "JavaScript (ES6+)", "React", "Tailwind CSS"],
+  lookingFor: "Front-End position or internship",
+  funFact: "I clone cool websites to learn how they work 😄",
+};
+```
 
-<img align="right" width="125" src="https://skillicons.dev/icons?i=html,css,js,react&perline=2" alt="Frontend technologies"/>
+I enjoy building **responsive, clean and user-friendly interfaces** and learning modern front-end tools. Real-world projects (e-commerce, dashboards, exam and attendance systems) are how I sharpen my skills.
 
-Hello! I'm **Seid Dereje**, a passionate Front-End Web Developer, creative thinker, and problem solver.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-I enjoy designing and developing modern digital experiences that combine beautiful interfaces, responsive layouts, and practical functionality.
+## 🛠️ Tech Stack
 
-For me, development is more than writing code. It's about understanding problems, thinking creatively, and building solutions that make technology easier and more enjoyable to use.
+<div align="center">
 
-**My development mindset:**
+**Languages & Front-End**
 
-- ✦ Creativity — Turning ideas into engaging experiences.
-- ✦ Quality — Writing clean and maintainable code.
-- ✦ Innovation — Exploring modern web technologies.
-- ✦ Problem Solving — Finding effective solutions.
-- ✦ Growth — Learning something new every day.
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark"/>
 
-<br clear="right"/>
+**Tools**
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,django,py&theme=dark"/>
 
-## 02. WHAT I DO
+</div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Front-End Development
-
-Creating beautiful, responsive, and interactive user interfaces using modern web technologies.
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Web Application Development
-
-Building functional web experiences with reusable components and structured development practices.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 Responsive Design
-
-Developing interfaces that adapt smoothly to mobile, tablet, and desktop screens.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Creative Problem Solving
-
-Using logical thinking and creativity to solve development challenges.
-
-</td>
-</tr>
-</table>
-
----
-
-## 03. TECHNICAL SKILLS
-
-### Front-End Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" alt="Frontend skills"/>
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development tools"/>
-</p>
-
-### Additional Skills
-
-| Category | Technologies / Skills |
+| 🧩 Area | ⚡ What I do |
 |:--|:--|
-| Web Fundamentals | HTML5, CSS3, JavaScript |
-| Front-End Framework | React.js |
-| CSS Frameworks | Bootstrap, Tailwind CSS |
-| API Integration | Fetch API, Axios |
-| Version Control | Git, GitHub |
-| Design | Responsive Design, UI Development |
-| Development | Debugging, Component-Based Development |
+| **Responsive Design** | Mobile-first, cross-device layouts |
+| **React.js** | Reusable components (basic → intermediate) |
+| **API Integration** | Fetch API & Axios |
+| **Debugging** | Finding and fixing issues, performance tuning |
+| **Version Control** | Git & GitHub workflow |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 04. FEATURED PROJECTS
-
-A selection of projects that demonstrate my interest in building practical, user-friendly digital experiences.
-
-### 🛍️ 01 — E-Commerce Website
-
-A modern online shopping interface designed to provide a smooth and intuitive shopping experience.
-
-- Product presentation and listing.
-- Shopping cart functionality.
-- Responsive user interface.
-- Interactive shopping experience.
-
-`HTML` `CSS` `JavaScript`
-
----
-
-### 🍎 02 — Apple Website Clone
-
-A modern website recreation inspired by Apple's minimal and elegant design approach.
-
-- Clean and minimal layouts.
-- Responsive website structure.
-- Visual interactions and animations.
-- Attention to typography and presentation.
-
-`HTML` `CSS` `JavaScript`
-
----
-
-### 🧮 03 — Smart Calculator
-
-An interactive calculator designed to handle everyday mathematical operations.
-
-- Interactive calculation controls.
-- Calculation logic.
-- Clean interface.
-- Smooth user interactions.
-
-`HTML` `CSS` `JavaScript`
-
----
-
-### 🍔 04 — Food Delivery Website
-
-A responsive food delivery interface focused on presenting food products and providing a user-friendly ordering experience.
-
-- Food menu presentation.
-- Organized ordering interface.
-- Responsive layouts.
-- Attractive visual design.
-
-`HTML` `CSS` `JavaScript`
-
----
-
-### 📝 05 — Online Exam System
-
-A frontend interface for an online examination platform.
-
-- Question navigation.
-- Timer-based interactions.
-- Structured examination interface.
-- User-friendly experience.
-
-`HTML` `CSS` `JavaScript`
-
----
-
-### 📊 06 — Admin Dashboard
-
-A dashboard interface designed to organize information and provide a clear view of user-related data.
-
-- Dashboard layout.
-- Charts and tables.
-- User management interface.
-- Organized data visualization.
-
-`Frontend Development` `UI Design`
-
----
-
-### 🎓 07 — School Attendance System
-
-A school attendance management project focused on organizing and managing student attendance information.
-
-- Attendance tracking interface.
-- Organized information display.
-- Frontend and backend integration.
-
-`Frontend Development` `Django Integration`
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/abufaruk5825-cybersecurity?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-FDE68A?style=for-the-badge&logo=github&logoColor=111827" alt="View projects"/>
-</a>
-
-</div>
-
----
-
-## 05. MY DEVELOPMENT PHILOSOPHY
-
-<div align="center">
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 💡 Creativity
+### 🛒 E-Commerce Website
+Responsive shopping platform with product listing, cart system and smooth UI interactions.
 
-Designing unique digital experiences.
+`HTML` `CSS` `JavaScript`
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Problem Solving
+### 🍎 Apple Website Clone
+Modern, minimal UI inspired by Apple, focused on layout, responsiveness and animations.
 
-Turning challenges into solutions.
+`HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### ⚡ Performance
+### 🧮 Smart Calculator
+Interactive calculator with advanced logic, clean UI and smooth interaction.
 
-Building efficient and responsive interfaces.
+`JavaScript` `HTML` `CSS`
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 🌱 Continuous Growth
+### 🍔 Food Delivery Website
+Responsive food ordering interface with menu display and friendly ordering flow.
 
-Learning, improving, and innovating.
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 Online Exam System
+Exam interface with question navigation and timer-based interaction.
+
+`JavaScript` `HTML` `CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Admin Dashboard
+Dashboard with charts, tables and a user management UI for clear data visualization.
+
+`Front-End` `UI Design`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎓 School Attendance System
+Front-end for an attendance tracking system, integrated with a **Django** backend.
+
+`Front-End` `Django Integration`
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+<a href="https://github.com/abufaruk5825-cybersecurity?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%94%A5%20EXPLORE%20ALL%20REPOSITORIES-7C3AED?style=for-the-badge"/></a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 06. GITHUB ANALYTICS
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abufaruk5825-cybersecurity&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=FDE68A&icon_color=60A5FA"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abufaruk5825-cybersecurity&show_icons=true&theme=radical&hide_border=true&bg_color=0F172A&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abufaruk5825-cybersecurity&layout=compact&theme=radical&hide_border=true&bg_color=0F172A"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abufaruk5825-cybersecurity&layout=compact&theme=tokyonight&hide_border=true&title_color=FDE68A"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=abufaruk5825-cybersecurity&theme=radical&hide_border=true&background=0F172A"/>
 
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=abufaruk5825-cybersecurity&theme=tokyonight&hide_border=true&ring=FDE68A&fire=60A5FA&currStreakLabel=FDE68A"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abufaruk5825-cybersecurity&bg_color=0F172A&color=A78BFA&line=7C3AED&point=EC4899&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 07. EDUCATION
+## 🌱 Currently Focused On
 
-🎓 **Bachelor of Science in Software Engineering**
+- ⚛️ Leveling up **React.js** (components, hooks, state)
+- 🎨 Better **UI/UX** and design systems
+- 🧠 JavaScript problem solving
+- ⚡ Performance and clean code practices
 
-A foundation for understanding software development, programming, logical thinking, and building technology-based solutions.
-
----
-
-## 08. CURRENT LEARNING & GROWTH
-
-I'm continuously working to improve my development knowledge and build better digital experiences.
-
-- ⚛️ Advancing my React.js development skills.
-- 🎨 Improving modern UI/UX design practices.
-- 💻 Building responsive web applications.
-- 🧠 Strengthening JavaScript problem-solving.
-- 🔗 Improving API integration skills.
-- 🚀 Exploring modern frontend development techniques.
-
----
-
-## 09. LET'S CONNECT
+## 💡 What Drives Me
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=FDE68A&center=true&vCenter=true&width=650&height=45&lines=LET%27S+BUILD+SOMETHING+AMAZING;CREATIVITY+MEETS+TECHNOLOGY;IDEAS+INTO+DIGITAL+REALITY" alt="Let's connect"/>
+| 💡 Creativity | 🧠 Problem Solving | ⚡ Performance | 📚 Growth |
+|:--:|:--:|:--:|:--:|
+| Ideas into engaging UIs | Smart fixes for real problems | Fast, efficient interfaces | Learning every day |
 
-<br/>
+</div>
 
-I'm open to learning opportunities, collaboration, and exciting web development projects.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+### Have an idea or an opportunity? Let's build something great together!
+
+<a href="mailto:seynadereje12@gmail.com"><img src="https://img.shields.io/badge/seynadereje12%40gmail.com-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-<a href="https://github.com/abufaruk5825-cybersecurity">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<!-- Add your actual LinkedIn, portfolio and professional email links here -->
-
-<br/><br/>
-
-**Thank you for visiting my profile!**
-
-### ✦ Designed with passion. Built with creativity. ✦
-
-**© Seid Dereje**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:172554,65:312E81,100:164E63&height=160&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:2563EB,60:7C3AED,100:EC4899&height=140&section=footer&animation=twinkling" width="100%"/>
 
 </div>
