@@ -18,7 +18,7 @@
 
 <a href="https://github.com/abufaruk5825-cybersecurity?tab=repositories"><img src="https://img.shields.io/badge/My%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:seynadereje12@gmail.com"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-0891B2?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/Abuzubeir1234"><img src="https://img.shields.io/badge/Telegram-0891B2?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/><br/>
